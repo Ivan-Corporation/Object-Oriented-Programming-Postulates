@@ -38,4 +38,11 @@ public class PolymorphismExample {
     {
         Vehicle bike = new Bike();
         Vehicle car = new Car();
-        V
+        Vehicle truck = new Truck();
+
+        System.out.println("Bike has "+bike.wheels()+" wheels");
+        System.out.println("Car has "+car.wheels()+" wheels");
+        System.out.println("Truck has "+truck.wheels()+" wheels");
+    }
+
+}

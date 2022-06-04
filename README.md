@@ -1,4 +1,5 @@
 # Object Oriented Programming Postulates 
+![three-whales](https://user-images.githubusercontent.com/58357980/171994405-5636941d-889b-4fba-a08b-628890af0953.jpg)
 
 ## Examples on different programming languages:
 

@@ -16,3 +16,5 @@ oProgrammingClub.report()
 # Attempt to add additional member
 
 oProgrammingClub.addMember('Iwanna Join')
+
+# When you move your finger it's really hard algorithm process with many "neuron logic code" but for you it's EASY

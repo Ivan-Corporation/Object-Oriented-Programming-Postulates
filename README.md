@@ -13,3 +13,7 @@
 
 Run Script:
 > Ctrl + F5
+
+Or with CodeRunner:
+
+> Ctrl + Alt + N 

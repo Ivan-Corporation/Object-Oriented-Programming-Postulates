@@ -9,6 +9,8 @@
 <td><img src='https://raw.githubusercontent.com/Ivan-Corporation/Ivan-Corporation/main/icons/java_22523.png' width='52px' /></td>
 <td><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' width='52px' /></td>
 <td><img src='https://raw.githubusercontent.com/Ivan-Corporation/Ivan-Corporation/main/icons/rust.png' width='52px' /></td>
+<td><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' width='52px' /></td>
+
 </tr>
 </table>
 

@@ -21,6 +21,14 @@ class Rose extends Flower {
     }
     danger = true
 }
+
+class WhiteRose extends Rose {
+    color(): void {
+        console.log("color of rose is white");
+    }
+
+}
+
 class Lotus extends Flower {
     color(): void {
         console.log("color of Lotus is pink");

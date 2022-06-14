@@ -5,14 +5,39 @@ const createCounter = () => {
     // Incapsulate logic also closure
     click: () => fingersCount += 1,
     getCount: () => fingersCount.toLocaleString()
+    // Neurons activated, muscle grow
   });
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const fingersCounter = createCounter();
 fingersCounter.click();
 fingersCounter.click();
 fingersCounter.click();
 fingersCounter.click();
 fingersCounter.click();
+
 
 console.log(
   fingersCounter.getCount()

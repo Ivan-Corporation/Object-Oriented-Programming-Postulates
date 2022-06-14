@@ -9,6 +9,8 @@ class Employee():
             ratePerHour = float(ratePerHour)
         self.ratePerHour = ratePerHour
 
+
+    #! Main PART OF EXAMPLE
     # Getter
     def getName(self):
         return self.name

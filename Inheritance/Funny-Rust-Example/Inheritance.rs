@@ -22,7 +22,7 @@ fn main() {
             if !self.is_a_parrot {
                 println!("quack!");
             } else {
-                println!("squawk!");
+                println!("I'm parrot Lago!");
             }
         }
     }
@@ -38,5 +38,5 @@ fn main() {
     }
     // quack!
     // quack!
-    // squawk!
+    // I'm parrot Lago!
 }
